@@ -1,0 +1,8 @@
+#Name;Title;Emulator;CloneOf;Year;Manufacturer;Category;Players;Rotation;Control;Status;DisplayCount;DisplayType;AltRomname;AltTitle;Extra;Buttons
+Chrono Trigger;Chrono Trigger;Super Nintendo;;1995;Squaresoft;Role-Playing;1;;;;;;;;;
+Donkey Kong Country;Donkey Kong Country;Super Nintendo;;1994;Nintendo;Action / Adventure / Platform;2;;;;;;;;;
+Killer Instinct;Killer Instinct;Super Nintendo;;1995;Nintendo;Fighting;2;;;;;;;;;
+Mega Man X;Mega Man X;Super Nintendo;;1994;Capcom;Action;1;;;;;;;;;
+Super Metroid;Super Metroid;Super Nintendo;;1994;Nintendo;Action / Adventure;1;;;;;;;;;
+Teenage Mutant Ninja Turtles IV - Turtles in Time;Teenage Mutant Ninja Turtles IV - Turtles in Time;Super Nintendo;;1992;Konami;Action;2;;;;;;;;;
+Top Gear;Top Gear;Super Nintendo;;1992;Kemco;Racing;2;;;;;;;;;

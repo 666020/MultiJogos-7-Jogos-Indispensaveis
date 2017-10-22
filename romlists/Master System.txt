@@ -1,0 +1,8 @@
+#Name;Title;Emulator;CloneOf;Year;Manufacturer;Category;Players;Rotation;Control;Status;DisplayCount;DisplayType;AltRomname;AltTitle;Extra;Buttons
+Alex Kidd in Miracle World;Alex Kidd in Miracle World;Master System;;;;;;;;;;;;;;
+California Games;California Games;Master System;;;;;;;;;;;;;;
+Castle of Illusion Starring Mickey Mouse;Castle of Illusion Starring Mickey Mouse;Master System;;;;;;;;;;;;;;
+Galaxy Force;Galaxy Force;Master System;;;;;;;;;;;;;;
+Kenseiden;Kenseiden;Master System;;;;;;;;;;;;;;
+Phantasy Star;Phantasy Star;Master System;;;;;;;;;;;;;;
+Wonder Boy III - The Dragon's Trap;Wonder Boy III - The Dragon's Trap;Master System;;;;;;;;;;;;;;

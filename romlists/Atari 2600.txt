@@ -1,0 +1,8 @@
+#Name;Title;Emulator;CloneOf;Year;Manufacturer;Category;Players;Rotation;Control;Status;DisplayCount;DisplayType;AltRomname;AltTitle;Extra;Buttons
+Adventure;Adventure;Atari 2600;;1978;Atari;Adventure;1;;;;;;;;;
+Enduro;Enduro;Atari 2600;;1983;Polyvox;Racing;1;;;;;;;;;
+H.E.R.O.;H.E.R.O.;Atari 2600;;;;;;;;;;;;;;
+Missile Command;Missile Command;Atari 2600;;1980;Atari;Shooter;2;;;;;;;;;
+Phoenix;Phoenix;Atari 2600;;1982;Atari;Shooter;;;;;;;;;;
+Pitfall!;Pitfall!;Atari 2600;;1982;Activision;Action;1;;;;;;;;;
+River Raid;River Raid;Atari 2600;;1982;Activision;Shooter;2;;;;;;;;;
